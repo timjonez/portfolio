@@ -1,0 +1,42 @@
+
+
+
+html, body{
+  background-image: url(media/markus-spiske-qjnAnF0jIGk-unsplash-min.jpg);
+  background-size: cover;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.about_card{
+  text-align: center;
+  background-color: white;
+  margin-top: 15%;
+  padding: 40px;
+  padding-top: 10px;
+  border-radius: 5px;
+
+}
+
+#profilepic{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 100%;
+  width: 80%;
+}
+
+.name-card{
+  text-align: center;
+}
+
+
+
+.slideshow{
+  margin-top: 15%;
+}
+
+.nav{
+  padding: 5px;
+  font-size: 1.1em;
+  margin-top: 15%;
+  background-color: white;
+}
