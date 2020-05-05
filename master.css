@@ -40,3 +40,24 @@ html, body{
   margin-top: 15%;
   background-color: white;
 }
+
+.project{
+  margin-top: 10%;
+  background-color: white;
+}
+
+.skills{
+  margin-top: 10%;
+  margin-right: 10px;
+  margin-left: 50px;
+  background-color: white;
+}
+
+.company-nav{
+  margin-top: 10%;
+  margin-left: 10px;
+}
+
+.resume{
+  margin: auto;
+}
