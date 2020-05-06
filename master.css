@@ -11,9 +11,10 @@ html, body{
   text-align: center;
   background-color: white;
   margin-top: 15%;
-  padding: 40px;
+  padding: 30px;
   padding-top: 10px;
   border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px;
 
 }
 
@@ -34,30 +35,57 @@ html, body{
   margin-top: 15%;
 }
 
-.nav{
+.main-nav{
   padding: 5px;
+  padding-top: 15px;
   font-size: 1.1em;
   margin-top: 15%;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px;
+}
+
+.resume-nav{
+  margin-top: 10%;
+  margin-bottom: 35%;
+  margin-left: 10px;
   background-color: white;
 }
 
 .project{
   margin-top: 10%;
+  padding: 30px;
   background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px;
+}
+
+#project-title{
+  text-align: center;
+}
+
+.project-links{
+  text-align: center;
 }
 
 .skills{
+  padding-top: 10px;
   margin-top: 10%;
-  margin-right: 10px;
+  margin-right: 15px;
   margin-left: 50px;
   background-color: white;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px;
+}
+
+#skills-title{
+  text-align: center;
 }
 
 .company-nav{
   margin-top: 10%;
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 .resume{
-  margin: auto;
 }
